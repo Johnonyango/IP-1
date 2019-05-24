@@ -7,8 +7,8 @@
   padding-top: 300px
   /* font-style:italic; */
 }
-p {
-  caret-color: white;
+/* p { */
+  /* color: white; */
 }
 .landpage > p {
   font-style: italic;
@@ -28,5 +28,6 @@ nav{
 nav a{
     text-decoration: none;
       color: black;
+      font-weight: bold;
 
 }
