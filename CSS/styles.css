@@ -1,9 +1,32 @@
 .landpage {
-  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS6RhdOR5VvOC6RqSdicGk8FZLH5UIir2kqvw7LHmtD9ml4DZL);
+  /* background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS6RhdOR5VvOC6RqSdicGk8FZLH5UIir2kqvw7LHmtD9ml4DZL); */
   background-size: 1500px;
   background-repeat: no-repeat;
   height: 1200px;
   text-align: center;
   padding-top: 300px
   /* font-style:italic; */
+}
+p {
+  caret-color: white;
+}
+.landpage > p {
+  font-style: italic;
+}
+h1 {
+  font-style: italic;
+}
+body {
+  background-color: darkblue;
+}
+nav{
+  display: block;
+  flex-direction: row;
+
+}
+
+nav a{
+    text-decoration: none;
+      color: black;
+
 }
