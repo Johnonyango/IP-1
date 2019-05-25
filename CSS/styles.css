@@ -51,6 +51,9 @@ nav {
   color: darkblue;
 }
 footer {
-  margin-top: 450px;
+  /* margin-top: 450px; */
   text-align: center;
+  background-color: darkblue;
+  /* width: 500px; */
+  height: 30px;
 }
