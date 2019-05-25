@@ -10,7 +10,7 @@
 * open with your browser
 * edit the browser as per any necessity
 ## Known Bugs
-{No known bugs currently}
+{Several changes made in the styles.css and html files}
 ## Technologies Used
 {html
 CSS
