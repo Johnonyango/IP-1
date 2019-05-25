@@ -45,5 +45,8 @@ nav {
 .Contacts {
   /* padding-top: 200px */
   color: darkblue;
-  /* text-align: center; */
+  /* text-Salign: center; */
+}
+.Projects > li > a {
+  color: darkblue;
 }
