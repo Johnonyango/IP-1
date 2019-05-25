@@ -11,7 +11,7 @@
 * edit the browser as per any necessity
 ## Known Bugs
 {Several changes made in the styles.css and html files}
-## Technologies Used
+## Technologies/ Tools Used
 {html
 CSS
 git
