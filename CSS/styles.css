@@ -50,7 +50,7 @@ nav {
 .Projects > li > a {
   color: darkblue;
 }
-/* footer { */
-  /* margin-top: 450px; */
-  /* text-align: center; */
+footer {
+  margin-top: 450px;
+  text-align: center;
 }
