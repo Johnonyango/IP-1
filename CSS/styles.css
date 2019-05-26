@@ -7,9 +7,9 @@ h1 {
   color: black;
   text-align: center;
   /* margin-top: 50%; */
+  font-size: 50px;
 }
 #aboutme {
-
   width: 750px;
   height: 350px;
   padding: 30px;
@@ -42,7 +42,7 @@ nav {
       flex-direction: row;
       justify-content: space-around;
       font-size: 20px;
-      
+
   }
 .Contacts {
   padding-top: 10%;
@@ -64,21 +64,21 @@ nav {
   list-style-type: none;
 }
 footer {
-  margin-top: 250px;
+  margin-top: 300px;
   text-align: center;
   background-color: darkblue;
   /* width: 500px; */
   height: 30px;
 }
-#coders {
+/* #coders { */
   /* float: right; */
   /* padding-top: 50%; */
 
 }
-.landpage p {
+ .p {
   font-style: italic;
   color: darkblue;
-  font-size: 250%;
+  font-size: 100px;
 }
 .main-content img {
  float: left;
