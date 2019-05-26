@@ -19,6 +19,7 @@ h1 {
   width: 750px;
   height: 200px;
   padding: 30px;
+  float: left;
 
 }
 a{
@@ -42,7 +43,6 @@ nav {
       flex-direction: row;
       justify-content: space-around;
       font-size: 20px;
-
   }
 .Contacts {
   padding-top: 10%;
@@ -69,18 +69,4 @@ footer {
   background-color: darkblue;
   /* width: 500px; */
   height: 30px;
-}
-/* #coders { */
-  /* float: right; */
-  /* padding-top: 50%; */
-
-}
- .p {
-  font-style: italic;
-  color: darkblue;
-  font-size: 100px;
-}
-.main-content img {
- float: left;
- padding: 0 20px 20px 0;
 }
