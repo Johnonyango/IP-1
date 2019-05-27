@@ -1,6 +1,15 @@
 body {
-  background-color:lightgreen;
-  font-size: 250
+  /* background-color:lightgreen; */
+  font-size: 250;
+  background-image: url("https://thumbs.gfycat.com/IllfatedTastyCheetah-size_restricted.gif");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+p,ul,ol,h1,h2,h3 {
+  color: white;
+}
+.spn {
+  color: white;
 }
 
 h1 {
@@ -24,7 +33,7 @@ h1 {
 }
 a{
   text-decoration: none;
-  color: black;
+  color: white;
 }
 
 .johnny{
@@ -69,4 +78,5 @@ footer {
   background-color: darkblue;
   /* width: 500px; */
   height: 30px;
+  color: white;
 }

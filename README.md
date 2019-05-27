@@ -5,13 +5,13 @@
 {This project is a Portfolio Landing page for me (John Onyango) that details much about me, what I do currently anfd what I have done before. It also acts as a track to my progress as I continue to learn coding in addition to the skills I already has. }
 ## Setup/Installation Requirements
 * clone to link https://johnonyango.github.io/IP-1/
-* cd Portfolio to your directory
+* cd IP-1 to your directory
 * double check
 * open with your browser
 * edit the browser as per any necessity
 ## Known Bugs
 {Several changes made in the styles.css and html files}
-## Technologies/ Tools Used
+## Technologies/Tools Used
 {html
 CSS
 git
